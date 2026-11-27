@@ -1,21 +1,14 @@
 # Shan-Jyun Wu — CV site
 
-A single-page CV built with Jekyll, served via GitHub Pages.
-
-## Local preview
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Then open http://localhost:4000.
+A CV and homepage built with Jekyll, served via GitHub Pages.
 
 ## Structure
 
 * `_pages/cv.md` — the CV content, served at `/`.
-* `_config.yml` — site + author metadata (name, bio, links shown in the sidebar).
-* `images/profile.jpg`, `files/Profile.pdf` — profile photo and downloadable PDF resume.
+* `_pages/homepage.md` — blank landing page, served at `/homepage/`.
+* `_config.yml` — site + author metadata (name, bio, links shown in the shared sidebar).
+* `_data/navigation.yml` — top nav linking Home and CV.
+* `images/profile.jpg` — profile photo shown in the sidebar.
 * `_layouts/`, `_includes/`, `_sass/`, `assets/` — vendored theme (unmodified).
 
 ## Attribution

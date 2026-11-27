@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Summary
-======
-
 Education
 ======
 * MSc in Physics, National Tsing Hua University (2011 - 2015)

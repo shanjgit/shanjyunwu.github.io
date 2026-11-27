@@ -59,6 +59,7 @@ Certifications
 ======
 * Algorithmic Toolbox (Coursera)
 * edX Verified Certificate for Introduction to Computational Thinking and Data Science
+* Machine Learning (Coursera)
 * Neural Networks and Deep Learning (Coursera)
 * Sequence Models (Coursera)
 * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)

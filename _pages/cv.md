@@ -69,6 +69,6 @@ Honours and Awards
 Publications
 ======
 * "Foundations of Classical Electrodynamics, Equivalence Principle and Cosmic Interactions: A Short Exposition and an Update" — Modern Physics Letters A 28 (03), 1340013 (2013)
+* KAGRA Project Status Report — 日本物理学会講演概要集 69.1 (2014)
 * "Variational-Autoencoder-Based Environment for Interactive Sketch Tutoring Aiming for Kids" — 2nd International Workshop on Artificial Intelligence and Education (2020)
 * "Self-organizing Pattern in Multilayer Network for Words and Syllables" (preprint) — arXiv:2005.02087 (2020)
-* KAGRA Project Status Report — 日本物理学会講演概要集 69.1 (2014)
